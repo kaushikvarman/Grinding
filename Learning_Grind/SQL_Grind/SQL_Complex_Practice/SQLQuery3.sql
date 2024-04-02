@@ -1,0 +1,1 @@
+select * into LearningSQL.dbo.returns from returns$ 
